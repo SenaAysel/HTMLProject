@@ -1,0 +1,40 @@
+body{font-family:'lucida grande',verdana,tahoma,arian,sans-serif;
+background-color:white;}
+
+#container{
+width:2000px;
+margin:0 auto;
+padding:2px;
+background-color:black;}
+
+#navigation{
+height:150px;
+margin-top:5px;
+background-image: url(https://in.bookmyshow.com/entertainment/wp-content/uploads/2014/09/filmreel.jpg) 
+}
+ ul#navmenu{
+list-style-type:none;
+font-size:20px;
+}
+
+ul#navmenu li{
+width:200px;
+text-align:center;
+float: left;
+margin-right:4px;
+}
+ul#navmenu a {
+text-decoration:none;
+dispaly:block;
+width:180px;
+height:25px;
+background-color:#fff;
+border-radius: 5px;
+}
+#banner{
+height:295px;
+background-image:url()}
+
+p{background-color:white;
+font-family:'lucida grande',verdana,tahoma,arian,sans-serif;
+}
